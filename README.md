@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bayos04
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning PHP, JS, Angular
+- 🌱 I’m currently learning PHP, JS, Angular, JAVA, SpringBoot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
